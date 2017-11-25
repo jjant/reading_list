@@ -22,9 +22,15 @@
 | :waning_gibbous_moon:| You don't know JS - Es6 & beyond |
 | :full_moon_with_face: | The Ruby Programming Language|
 | :waning_crescent_moon: |Practical Object-Oriented Design in Ruby|
+| :waning_crescent_moon: | The Pragmatic Programmer|
 
 ### Business
 | Status | Title |
 |--------|--------|
 | :waning_gibbous_moon: | Rework|
 | :new_moon:| The Lean Startup|
+
+
+## Contributing
+
+Think I should read some book? Submit an issue to let me know.
